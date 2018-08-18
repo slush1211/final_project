@@ -19,7 +19,7 @@ function preload ()
 function create ()
 {
     // Create a tilesprite (x, y, width, height, key)
-    this.add.tileSprite(0,0,396,529,'ground')
+    this.add.tileSprite(window.innerWidth / 2,window.innerHeight / 2,window.innerWidth, window.innerHeight,'ground')
 
 }
 
