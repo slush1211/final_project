@@ -13,12 +13,15 @@ var game = new Phaser.Game(config, document.getElementById("game"));
 
 function preload ()
 {
+
 }
 
 function create ()
 {
+
 }
 
 function update ()
 {
+    
 }
